@@ -87,11 +87,6 @@ Contributions are welcome! If you’d like to improve the project, follow these 
 
 ---
 
-## **License**  
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.  
-
----
-
 ## **Contact**  
 For any questions or suggestions, feel free to contact the author:  
 📧 **Email:** m.a.hajialirezaei05@gmail.com
